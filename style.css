@@ -1,0 +1,103 @@
+*
+{
+	position:static;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+/* Header */
+.large-header {
+	/* position: relative; */
+	width: 100%;
+	background-position: center center;
+	flex-direction: center;
+	align-items: center;
+	align-content: center;
+	
+}
+
+#large-header {
+	background:linear-gradient(to right top, #845EC2,#01a085);
+	
+	
+}
+
+.main-title {
+	position: absolute;
+	
+
+	font-size: 3em;
+	top: 40%;
+	left: 47%;
+	
+	-webkit-transform: translate3d(-30%,-30%,0);
+	transform: translate3d(-80%,-80%,3);
+	background-image: linear-gradient(to top, #c4bdd1 0%, #e9e4f0 100%);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); 
+}
+
+
+.main-title .thin {
+	font-weight: 300;
+	font-size: 1em;
+	background-image: linear-gradient(to top, #c4bdd1 0%, #e9e4f0 100%);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); 
+}
+
+
+.icons
+{
+	width: 500px;
+	position: absolute;
+	display: flex;
+	justify-content: space-between;
+	
+	padding: 2rem;
+
+	top: 48%;
+	left: 42%;
+	
+}	
+
+
+.icons .email
+{
+	min-height: 2.5rem;	
+	filter: invert(10%) sepia(100%) saturate(40%) hue-rotate(12deg) brightness(90%) contrast(80%) opacity(80%);
+	
+}
+
+.parag
+{
+	
+	position: absolute;
+	display: flex;
+	justify-content: space-between;
+	font-weight: 400;
+	font-size: 1.5em;
+	background-image: linear-gradient(to top, #c4bdd1 0%, #e9e4f0 100%);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); 
+	top: 60%;
+	left:45%;
+
+}
+
+.parag .about
+{
+	padding: 2rem;
+}
+/* 
+@media only screen and (max-width : 768px) {
+	.demo-1 .main-title {
+		font-size: 3em;
+	}
+} */
