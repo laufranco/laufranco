@@ -1,9 +1,5 @@
-## Hi, I'm Lau! 
-### I write, design & code.
+## Hi, I'm Laurianne! 
 
-I‘m a Data Scientist & Journalist who loves to plan and craft accessible, human-centered & colorful experiences. 
+I‘m a Data Scientist and Machine Learning student.  
 
-### Contact
-- Website - [Lau Franco](https://onlycodesaves.wordpress.com/)
-- Twitter I never use - [@only_code_saves](https://twitter.com/only_code_saves)
-- Linkedin - [Ouch!](https://www.linkedin.com/in/laurianne-franco-de-lima/)
+- [Linkedin] (https://www.linkedin.com/in/laurianne-franco-de-lima/)
